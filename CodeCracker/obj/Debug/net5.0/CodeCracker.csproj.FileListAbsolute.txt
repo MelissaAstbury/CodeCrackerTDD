@@ -1,0 +1,11 @@
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/bin/Debug/net5.0/CodeCracker.deps.json
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/bin/Debug/net5.0/CodeCracker.dll
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/bin/Debug/net5.0/ref/CodeCracker.dll
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/bin/Debug/net5.0/CodeCracker.pdb
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/obj/Debug/net5.0/CodeCracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/obj/Debug/net5.0/CodeCracker.AssemblyInfoInputs.cache
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/obj/Debug/net5.0/CodeCracker.AssemblyInfo.cs
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/obj/Debug/net5.0/CodeCracker.csproj.CoreCompileInputs.cache
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/obj/Debug/net5.0/CodeCracker.dll
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/obj/Debug/net5.0/ref/CodeCracker.dll
+/Users/melissaastbury/Documents/Study/CSharp/CodeCracker/CodeCracker/obj/Debug/net5.0/CodeCracker.pdb
