@@ -1,17 +1,12 @@
-﻿<Properties>
-  <MonoDevelop.Ide.ItemProperties.CodeCracker FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodeCracker.Tests/UnitTest1.cs">
-    <Files>
-      <File FileName="CodeCracker/Class1.cs" Line="11" Column="1" />
-      <File FileName="CodeCracker.Tests/UnitTest1.cs" Line="1" Column="1" />
-    </Files>
+﻿<Properties StartupConfiguration="{919DA5FA-F95B-4BB7-ABCF-768A8FF9B4FF}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CodeCracker" expanded="True">
             <Node name="CodeCracker" expanded="True" />
             <Node name="CodeCracker.Tests" expanded="True">
-              <Node name="UnitTest1.cs" selected="True" />
+              <Node name="CodeCrackerGeneratorTests.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -25,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CodeCracker.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CodeCracker.Tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
