@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{919DA5FA-F95B-4BB7-ABCF-768A8FF9B4FF}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeCracker.Tests/CodeCrackerGeneratorTests.cs">
+    <Files>
+      <File FileName="CodeCracker/CodeCrackerGenerator.cs" Line="1" Column="1" />
+      <File FileName="CodeCracker.Tests/CodeCrackerGeneratorTests.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">

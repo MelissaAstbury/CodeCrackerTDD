@@ -17,6 +17,7 @@ namespace CodeCracker.Tests
         [InlineData("!", "a")]
         [InlineData(")", "b")]
         [InlineData("''", "c")]
+        [InlineData("(", "d")]
         public void Test2(string character, string expectedResult)
         {
             CodeCrackerGenerator generator = new();

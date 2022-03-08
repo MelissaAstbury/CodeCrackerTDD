@@ -1,4 +1,7 @@
-﻿namespace CodeCracker
+﻿using System.Collections.Generic;
+using System.Linq;
+
+namespace CodeCracker
 {
     public class CodeCrackerGenerator
     {
@@ -9,11 +12,21 @@
 
         public string DecryptMessage(string character)
         {
-            if (character == "!")
+            var dictionary = new Dictionary<string, string>()
             {
-                return "a";
-            }
-            return "b";
+                {"!", "a"},
+                {")", "b"},
+                {"''", "c"},
+                {"(", "d"}
+            };
+
+            string result = "";
+
+            if (dictionary.ContainsKey(character))
+            {
+                result = dictionary.FirstOrDefault(x => x.Key == character).Value;
+            };
+            return result;
         }
     }
 }
