@@ -40,7 +40,7 @@ namespace CodeCracker.Tests
         [InlineData("m", "x")]
         [InlineData("n", "y")]
         [InlineData("o", "z")]
-        public void Test2(string character, string expectedResult)
+        public void WhenGivenACharacter_ShouldPrintValidDecryptionOutput(string character, string expectedResult)
         {
             CodeCrackerGenerator generator = new();
             var result = generator.DecryptMessage(character);
